@@ -20,7 +20,7 @@ npm run build
 ## ASP.NET Core 3.1
 ```
     - Swagger
-    - CodeFirst
+    - Code-First
     - Banco SQL Server
 
 ```
