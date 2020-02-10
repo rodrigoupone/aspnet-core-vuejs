@@ -16,3 +16,11 @@ npm run build
 
     - Geração de Pedido
     - Resumo do Pedido
+
+## ASP.NET Core 3.1
+```
+    - Swagger
+    - CodeFirst
+    - Banco SQL Server
+
+```
